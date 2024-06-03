@@ -1,0 +1,190 @@
+@media only screen and (max-width: 992px) and (min-width: 577px){
+    /* navbar  */
+    .nav-bar-container{
+        margin: 0px 0px;
+    }
+    .logo{
+        width: 100%;
+        margin: 0px 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo h1{
+        font-size: 50px;
+    }
+    .nav-item-section{
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .nav-items{
+        padding: 0px;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: center;
+    }
+
+    /* banner  */
+    .banner-container{
+        margin: 30px 10px;
+    }
+    .banner-details h1{
+        font-size: 20px;
+    }
+    .description p{
+        font-size: 10px;
+    }
+    .desc-image img{
+        width: 100%;
+        position: absolute;
+        bottom: 18%;
+    }
+    .more-info{
+        font-size: 14px;
+        font-weight: 300;
+        gap: 5px;
+    }
+    .more-info img{
+        width: 20px;
+        height: 20px;
+    }
+
+    /* about section  */
+    .about-section{
+        padding: 30px 10px;
+        font-size: 15px;
+    }
+    .experience{
+        font-size: 15px;
+    }
+
+
+    /* main section  */
+
+    /* experience section  */
+
+    .card-container{
+        padding: 20px 10px;
+    }
+    .experience-card{
+        width: 50%;
+    }
+    .experience-desc p{
+        font-size: 10px;
+        padding-top: 0px;
+    }
+    .experience-years-card{
+        width: 50%;
+        padding-top: 0px;
+    }
+    .cards-of-exp{
+        font-size: 10px;
+    }
+
+
+    /* Other section  */
+    .other-section{
+        background-color: #1e1e1e;
+    }
+
+
+
+    /* awards section  */
+    .awards-container{
+        padding: 30px 10px;
+    }
+    .awards-tittle h1{
+        padding-top: 0px;
+        font-size: 30px;
+    }
+    .awards-tittle p{
+        font-size: 15px;
+    }
+    .awards-details{
+        padding: 40px 10px;
+    }
+    .awards-name-with-details p{
+        font-size: 10px;
+    }
+
+
+    /* portfolio section  */
+    .portfolio-container{
+        padding: 30px 10px;
+    }
+    .portfolio-tittle h1{
+        padding-top: 40px;
+        font-size: 30px;
+    }
+    .portfolio-tittle p{
+        font-size: 15px;
+    }
+    .portfolio-button button{
+        font-size: 15px;
+    }
+
+    /* 1st */
+
+    .portfolio-details-1 h1{
+        font-size: 20px;
+    }
+    .portfolio-details-1 p{
+        font-size: 12px;
+    }
+
+
+    /* 2nd  */
+
+    .portfolio-details-2 h1{
+        font-size: 20px;
+    }
+    .portfolio-details-2 p{
+        font-size: 12px;
+    }
+
+
+    /* contact section  */
+
+    .contact-section{
+        padding-bottom: 50px;
+    }
+    .contact-header-container h1{
+        font-size: 30px;
+    }
+    .contact-details{
+        margin: 30px 10px;
+    }
+    .contact-items{
+        padding: 20px 30px;
+        font-size: 15px;
+    }
+    .items{
+        font-size: 15px;
+    }
+    .submit-button button{
+        font-size: 15px;
+    }
+
+
+    /* footer  */
+
+    .footer-items-container{
+        padding-top: 80px;
+        padding-bottom: 30px;
+    }
+    .footer-items-container h1{
+        font-size: 30px;
+    }
+    .footer-items a{
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    .footer-icons {
+        display: flex;
+        gap: 30px;
+        padding-top: 30px;
+    }
+    .footer{
+        font-size: 15px;
+    }
+}
